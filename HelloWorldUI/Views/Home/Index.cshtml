@@ -1,0 +1,42 @@
+﻿@using Microsoft.Extensions.Options;
+@using HelloWorldUI.Helpers
+
+@inject IOptions<AppSettings> AppSettings
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="main">
+
+    @{
+        var messages = (ViewModel)ViewData["Messages"];
+    }
+
+    @if(@AppSettings.Value.OutputToView)
+    {
+        <div>
+            <h4>View</h4>
+            @messages.ViewMessage
+        </div>
+    }
+
+    @if(@AppSettings.Value.OutputToFile)
+    {
+        <div>
+            <h4>File</h4>
+            @messages.FileMessage
+        </div>
+    }
+
+    @if(@AppSettings.Value.OutputToDatabase)
+    {
+        <div>
+            <h4>Database</h4>
+            Welcome message from API written to database: @messages.DatabaseMessage
+        </div>
+    }
+
+</div>
+

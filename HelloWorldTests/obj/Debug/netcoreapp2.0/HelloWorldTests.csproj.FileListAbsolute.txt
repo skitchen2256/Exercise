@@ -1,0 +1,34 @@
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.AssemblyInfoInputs.cache
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.AssemblyInfo.cs
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.deps.json
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.runtimeconfig.json
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.runtimeconfig.dev.json
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.dll
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.pdb
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldUI.dll
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldUI.pdb
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.dll
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.pdb
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\Scott\Programs\Exercise\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldAPI.pdb
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.deps.json
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.runtimeconfig.json
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.runtimeconfig.dev.json
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.dll
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldTests.pdb
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldUI.dll
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldUI.pdb
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\bin\Debug\netcoreapp2.0\HelloWorldAPI.pdb
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.AssemblyInfoInputs.cache
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.AssemblyInfo.cs
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.dll
+C:\Users\Scott\Programs\Exercise 2\HelloWorldTests\obj\Debug\netcoreapp2.0\HelloWorldTests.pdb

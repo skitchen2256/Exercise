@@ -1,0 +1,20 @@
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.deps.json
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.runtimeconfig.json
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.runtimeconfig.dev.json
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.pdb
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.AssemblyInfoInputs.cache
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.AssemblyInfo.cs
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\Scott\Programs\Exercise\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.pdb
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.deps.json
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.runtimeconfig.json
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.runtimeconfig.dev.json
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.pdb
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.csproj.CoreCompileInputs.cache
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.AssemblyInfoInputs.cache
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.AssemblyInfo.cs
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\Scott\Programs\Exercise 2\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.pdb
