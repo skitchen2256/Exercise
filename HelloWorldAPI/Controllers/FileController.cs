@@ -8,7 +8,7 @@ namespace HelloWorldAPI.Controllers
     [Route("api/[controller]")]
     public class FileController : Controller
     {
-        // GET api/file
+        // Post api/file
         [HttpPost]
         public string WriteToFile([FromBody] Message m)
         {

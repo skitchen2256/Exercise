@@ -1,6 +1,5 @@
 using System;
 using System.Net.Http;
-using System.Text;
 
 namespace HelloWorldUI.Helpers
 {

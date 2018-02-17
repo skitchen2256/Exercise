@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Diagnostics;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using HelloWorldUI.Models;
 using HelloWorldUI.Helpers;
 
 namespace HelloWorldUI.Controllers

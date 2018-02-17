@@ -1,6 +1,3 @@
-using System;
-using HelloWorldUI.Helpers;
-
 namespace HelloWorldUI.Helpers
 {
     public class ViewMessage : Message

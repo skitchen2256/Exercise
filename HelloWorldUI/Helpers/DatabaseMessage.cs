@@ -1,9 +1,3 @@
-using System;
-using System.IO;
-using HelloWorldUI.Models;
-using System.Linq;
-using Microsoft.EntityFrameworkCore;
-
 namespace HelloWorldUI.Helpers
 {
     public class DatabaseMessage : Message
